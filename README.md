@@ -7,4 +7,4 @@
 
 ## Funcionamiento 
 
-![](img/carro.jpg)
+
